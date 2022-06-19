@@ -1,2 +1,2 @@
 worker: pipenv shell
-init: py main.python
+w-init: py main.python
