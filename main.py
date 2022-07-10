@@ -1,7 +1,4 @@
 import music
-from nturl2path import url2pathname
-from sqlite3 import Timestamp
-from turtle import title
 import discord
 from discord.ext import commands
 import datetime
